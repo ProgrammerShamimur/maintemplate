@@ -1,0 +1,139 @@
+/*================ custom css ================*/
+body,h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.bgc{
+    background-color: #eae7fa88;
+}
+
+.min-h-font{
+    color: #4b4e53;
+}
+.a-c{
+    background-color: #8d84f9;
+}
+.t-p{
+    color: #2f3035;
+}
+/*================ header section css ================*/
+.header img{
+    width: 100px;
+}
+
+.header-menu .nav-link {
+    padding-left: 11px !important;
+    font-weight: 500;
+}
+
+
+
+
+/*================ testimonial section css ================*/
+.testimonial-title {
+    margin-top: 135px;
+}
+.testimonial-title h1 {
+    font-size: 55px;
+}
+.testimonial-title a{
+    transition: all .5s;
+}
+/* .testimonial-title a:hover{
+    background-color: #6608d3;
+    color: #fff;
+    box-shadow: 2.5px 4.33px 30px 0 rgb(121 82 179 / 70%) !important;
+    transform: translateY(20px) scale(1.1);
+} */
+
+.testimonial2-photo img {
+    box-shadow: 2.5px 4.33px 30px 0 rgb(64 87 191 / 20%);
+}
+.testimonial2-title a{
+    transition: all .5s;
+}
+/* .testimonial2-title a:hover{
+    background-color: #6608d3;
+    color: #fff;
+    box-shadow: 2.5px 4.33px 30px 0 rgb(121 82 179 / 70%) !important;
+    transform: translateY(20px) scale(1.1);
+} */
+.testimonial2-title p{
+    text-align: justify;
+}
+.testimonial2-title h1 {
+    font-size: 50px;
+}
+
+
+
+/*================ number section css ================*/
+
+.number-title h1 {
+    font-size: 60px;
+    font-weight: 500;
+}
+
+
+
+/*================ pricing section css ================*/
+.pricing-header h1 {
+    height: 90px;
+    width: 90px;
+    margin: auto;
+    line-height: 90px;
+    transition: all 0.6s;
+}
+/* .pricing-item:hover .pricing-header h1{
+    transform: rotate(360deg);
+} */
+.pricing-h5{
+    color: #49465ab5;
+}
+.pricing-button a{
+    border: 1px solid #6608d3;
+    color: #6608d3;
+    transition: all .6s;
+    font-weight: 600;
+}
+/* .pricing-item:hover .pricing-button a{
+    color: #fff;
+    background-color: #6608d3;
+    border: 1px solid transparent;
+    transform: translateY(20px) scale(1.1);
+    box-shadow: 2.5px 4.33px 30px 0 rgb(121 82 179 / 70%) !important;
+} */
+
+
+
+/*================ about section css ================*/
+.about-section {
+    padding: 110px 0 35px 0;
+}
+.about-item img {
+    width: 95px;
+    margin-left: 15px;
+    margin-top: -60px;
+    transition: all 0.6s;
+}
+/* .about-item:hover img{
+    transform: scale(1.1) translateX(5px) !important;
+    box-shadow: 2.5px 4.33px 30px 0 rgb(121 82 179 / 30%) !important;
+} */
+.card-body a{
+    transition: all .6s;
+}
+/* .card:hover .card-body a{
+    color: #fff;
+    background-color: #6608d3;
+    border: 1px solid transparent;
+    transform: translateY(10px) scale(1.1);
+    box-shadow: 2.5px 4.33px 30px 0 rgb(121 82 179 / 70%) !important;
+} */
+
+
+
+/*================ about section css ================*/
+.foorm-part button{
+    background-color: #629eb4;
+}
