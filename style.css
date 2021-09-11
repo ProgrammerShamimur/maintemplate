@@ -4,9 +4,13 @@ body,h1,h2,h3,h4,h5,h6,p{
 }
 
 
+/* .bgc{
+    background-color: #f7f9ff;
+} */
 .bgc{
     background-color: #f7f9ff;
 }
+
 .min-h-font{
     color: #4b4e53;
 }
